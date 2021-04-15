@@ -3,6 +3,7 @@
 ## Português
 
 Este é um sistema simplificado de administração de seguros veiculares.
+
 É possível criar e listar **usuários**, **clientes** e **veículos**.
 
 ### Como executar
@@ -13,6 +14,7 @@ Abra o projeto em uma IDE que suporte o Java Swing (como o NetBeans) e execute-o
 ## English
 
 This is a simplified system for managing vehicle insurance.
+
 You can create and list **users**, **customers** and **vehicles**.
 
 ### How to run
